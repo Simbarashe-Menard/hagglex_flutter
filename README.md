@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![alt text](https://lp-cms-production.imgix.net/image_browser/victoria-falls-aerial-shot.jpg)
+![alt text](https://github.com/Simbarashe-Menard/hagglex_flutter/blob/master/HaggleX.png)
 
 ## Getting Started
 
