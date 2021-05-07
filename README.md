@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![alt text](https://lp-cms-production.imgix.net/image_browser/victoria-falls-aerial-shot.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
